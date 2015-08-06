@@ -1,0 +1,23 @@
+Preference Data For Vail Commons:
+Grits: 3
+Eggs to Order: 2
+Pork Bacon or Canadian Bacon: 2
+Ham: 2
+Taco: 1
+Oatmeal: 1
+Designer Donuts: 1
+Chicken Salad: 1
+Custom Country Hash Browns: 1
+Low Country Boil: 1
+Tuna Salad: 1
+Waffle Sticks: 1
+Pork Sausage Links: 1
+Big Head Burrito: 1
+Custom Steak Sandwich: 1
+Turkey Burger: 1
+Frito Bar: 1
+Breakfast Tacos: 1
+
+Dislike Data For Vail Commons:
+Omelets: 1
+Eggs to Order: 1

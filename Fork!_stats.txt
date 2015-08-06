@@ -1,0 +1,29 @@
+Preference Data For Fork!:
+CAB Beef Tenderloin Medallions: 3
+WTF Sausage Patties: 2
+Asparagus: 2
+Arugula & Apple Salad: 2
+Yellow Fin Tuna Tartar: 1
+Shrimp & Grits: 1
+Scallop: 1
+Scottish Salmon: 1
+CAB Beef Tenderloin Steak and Eggs: 1
+Daily Risotto: 1
+Spicy Chicken Spring Roll: 1
+Olive Oil Mashed Potatos: 1
+Smoked Pork Dumpling: 1
+Cauliflower: 1
+Smoked Natural Ham: 1
+Parmesean Fries: 1
+Parmesan Fries: 1
+Toast: 1
+Lamb Shank: 1
+House Made Pesto Stuffed Burrata: 1
+Cheddar Herb Biscuits and Gravy : 1
+Fried Chicken Breast & Grits : 1
+
+Dislike Data For Fork!:
+Asparagus: 1
+Hashbrowns: 1
+Bacon, Egg & Cheese Croissant: 1
+Baked French Toast: 1

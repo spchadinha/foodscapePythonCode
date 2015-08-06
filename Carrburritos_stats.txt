@@ -1,0 +1,17 @@
+Preference Data For Carrburritos:
+Ceviche: 4
+Guacamole and Chips: 4
+Pescado Asado Tacos: 2
+Pescado Asado Tostadas: 2
+Nachos with Filling: 2
+Cheese Quesadillas: 1
+Baja Shrimp Tacos: 1
+Plain Burrito: 1
+Regular Nachos: 1
+Quesadilla: 1
+Salsa Fresca: 1
+
+Dislike Data For Carrburritos:
+Plain Burrito: 1
+Nachos with Filling: 1
+Ceviche: 1

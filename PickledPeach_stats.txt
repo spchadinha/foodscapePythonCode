@@ -1,0 +1,16 @@
+Preference Data For Pickled Peach:
+Chopped Butter Lettuce Salad: 5
+Grilled Halloumi (Delicious Cheese From Cyprus): 3
+Ham Sandwich: 3
+Ama's Caesar with Kale: 3
+Spinach Salad: 2
+Falafel Salad: 1
+Hay Smoked Burrata Salad (Fresh Mozzarella with a Cream Center): 1
+Grilled Cheese Sandwich: 1
+White Bean Hummus Sandwich: 1
+Cornmeal Fried Shrimp Sandwich: 1
+Slow Braised and Pulled Chicken Sandwich: 1
+
+Dislike Data For Pickled Peach:
+Hay Smoked Burrata Salad (Fresh Mozzarella with a Cream Center): 1
+Falafel Salad: 1

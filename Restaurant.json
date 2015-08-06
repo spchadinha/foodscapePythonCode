@@ -1,0 +1,334 @@
+{ "results": [
+	{
+        "address": "209 Delburg St, Davidson, NC 28036",
+        "createdAt": "2015-07-06T18:36:18.841Z",
+        "dynamic": [],
+        "eco": [],
+        "fair": [],
+        "healthScore": 84,
+        "hours": [
+            "11:30am-12:00am",
+            "11:30am-12:00am",
+            "11:30am-12:00am",
+            "11:30am-2:00am",
+            "11:30am-2:00am",
+            "11:30am-2:00am",
+            "11:30am-12:00am"
+        ],
+        "humane": [],
+        "image": {
+            "__type": "File",
+            "name": "tfss-2be80451-da09-414b-9ff0-a82c2c73680d-brickhouse.png",
+            "url": "http://files.parsetfss.com/d2efe009-f3de-4c1d-a172-b44358a0d179/tfss-2be80451-da09-414b-9ff0-a82c2c73680d-brickhouse.png"
+        },
+        "labelDescription": [
+            [
+                "FS",
+                "",
+                "R",
+                "L",
+                "",
+                "LA"
+            ],
+            [
+                "FD",
+                "MD",
+                "AI",
+                "VO",
+                "CA"
+            ],
+            []
+        ],
+        "mealPlanHours": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "name": "Brickhouse Tavern",
+        "number": "704-987-2022",
+        "objectId": "AI6aArgAgB",
+        "restDescription": "A visit to the Lazy 5 during the fall is a perfect time to enjoy the beautiful fall colors. During our Fall Festival you can pick a pumpkin from the patch, play in the corn box and take home your favorite fall decorations.",
+        "susDescription": [
+            "Hello, how are you doing",
+            "Whats your name?",
+            "Where are you from"
+        ],
+        "updatedAt": "2015-07-24T15:05:12.104Z",
+        "website": "http://brickhousetavern.com"
+    },
+	{
+        "address": "202 S Main St, Davidson, NC 28036",
+        "createdAt": "2015-07-06T18:36:35.702Z",
+        "dynamic": [],
+        "eco": [],
+        "fair": [],
+        "healthScore": 98,
+        "hours": [
+            "",
+            "11:00am-7:00pm",
+            "11:00am-7:00pm",
+            "11:00am-7:00pm",
+            "11:00am-7:00pm",
+            "11:00am-7:00pm",
+            "11:00am-7:00pm"
+        ],
+        "humane": [],
+        "image": {
+            "__type": "File",
+            "name": "tfss-bdfc954d-af2c-4369-99c8-0dcdcd4fd04f-pickledpeach.png",
+            "url": "http://files.parsetfss.com/d2efe009-f3de-4c1d-a172-b44358a0d179/tfss-bdfc954d-af2c-4369-99c8-0dcdcd4fd04f-pickledpeach.png"
+        },
+        "labelDescription": [
+            [
+                "FS",
+                "",
+                "R",
+                "L",
+                "ES",
+                "LA"
+            ],
+            [
+                "FD",
+                "MD",
+                "AI",
+                "",
+                ""
+            ],
+            []
+        ],
+        "mealPlanHours": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "name": "Pickled Peach",
+        "number": "704-765-2190",
+        "objectId": "2sacPnnIJl",
+        "restDescription": "A visit to the Lazy 5 during the fall is a perfect time to enjoy the beautiful fall colors. During our Fall Festival you can pick a pumpkin from the patch, play in the corn box and take home your favorite fall decorations.",
+        "susDescription": [
+            "Hello, how are you doing",
+            "Whats your name?",
+            "Where are you from"
+        ],
+        "updatedAt": "2015-07-21T20:01:55.775Z",
+        "website": "http://www.thepickledpeach.com"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true,
+                "write": true
+            }
+        },
+        "address": "20517 N Main St, Cornelius, NC 28031",
+        "createdAt": "2015-07-06T15:54:20.146Z",
+        "dynamic": [],
+        "eco": [],
+        "fair": [],
+        "healthScore": 98,
+        "hours": [
+            "",
+            "5:00pm-10:00pm",
+            "5:00pm-10:00pm",
+            "5:00pm-10:00pm",
+            "5:00pm-11:00pm",
+            "4:00pm-11:00pm",
+            "4:00pm-8:00pm"
+        ],
+        "humane": [],
+        "image": {
+            "__type": "File",
+            "name": "tfss-8c3460a5-c0c2-4379-9dfe-e4b29816f719-fork.jpg",
+            "url": "http://files.parsetfss.com/d2efe009-f3de-4c1d-a172-b44358a0d179/tfss-8c3460a5-c0c2-4379-9dfe-e4b29816f719-fork.jpg"
+        },
+        "labelDescription": [
+            [
+                "FS",
+                "",
+                "R",
+                "L",
+                "",
+                "LA"
+            ],
+            [
+                "",
+                "MD",
+                "AI",
+                "VO",
+                "CA"
+            ],
+            []
+        ],
+        "mealPlanHours": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "name": "Fork!",
+        "number": "704-655-7465",
+        "objectId": "IqpAYoeASI",
+        "restDescription": "A visit to the Lazy 5 during the fall is a perfect time to enjoy the beautiful fall colors. During our Fall Festival you can pick a pumpkin from the patch, play in the corn box and take home your favorite fall decorations.",
+        "susDescription": [
+            "Hello, how are you doing",
+            "Whats your name?",
+            "Where are you from"
+        ],
+        "updatedAt": "2015-07-21T20:02:09.091Z",
+        "website": "http://www.forkdining.com"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true,
+                "write": true
+            }
+        },
+        "address": "405 North Main Street, Davidson, NC 28035",
+        "createdAt": "2015-07-06T18:39:39.975Z",
+        "dynamic": [],
+        "eco": [
+            "AI",
+            "C"
+        ],
+        "fair": [],
+        "healthScore": 98,
+        "hours": [
+            "8:00am-12:00am",
+            "8:00am-12:00am",
+            "8:00am-12:00am",
+            "8:00am-12:00am",
+            "8:00am-12:00am",
+            "11:00am-12:00am",
+            "11:00am-12:00am"
+        ],
+        "humane": [],
+        "image": {
+            "__type": "File",
+            "name": "tfss-f88ec358-d72e-4496-8609-ecdf708cfc23-DavisCafe.png",
+            "url": "http://files.parsetfss.com/d2efe009-f3de-4c1d-a172-b44358a0d179/tfss-f88ec358-d72e-4496-8609-ecdf708cfc23-DavisCafe.png"
+        },
+        "labelDescription": [
+            [
+                "FS",
+                "C",
+                "R",
+                "L",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "CA"
+            ],
+            []
+        ],
+        "mealPlanHours": [
+            "8:00am-10:45am (breakfast)\n 2:00pm-5:00pm (lunch)\n 5:00pm-8:00pm (dinner)\n 9:00pm-11:00pm (late-night)",
+            "8:00am-10:45am (breakfast)\n 2:00pm-5:00pm (lunch)\n 5:00pm-8:00pm (dinner)\n 9:00pm-11:00pm (late-night)",
+            "8:00am-10:45am (breakfast)\n 2:00pm-5:00pm (lunch)\n 5:00pm-8:00pm (dinner)\n 9:00pm-11:00pm (late-night)",
+            "8:00am-10:45am (breakfast)\n 2:00pm-5:00pm (lunch)\n 5:00pm-8:00pm (dinner)\n 9:00pm-11:00pm (late-night)",
+            "8:00am-10:45am (breakfast)\n 2:00pm-5:00pm (lunch)\n 5:00pm-8:00pm (dinner)\n 9:00pm-11:00pm (late-night)",
+            "2:00pm-5:00pm (lunch)\n 5:00pm-8:00pm (dinner)\n 9:00pm-11:00pm (late-night)",
+            "2:00pm-5:00pm (lunch)\n 5:00pm-8:00pm (dinner)\n 9:00pm-11:00pm (late-night)"
+        ],
+        "name": "Alvarez Union Cafe",
+        "number": "704-894-2140",
+        "objectId": "4B1UYKJ1i8",
+        "restDescription": "A visit to the Lazy 5 during the fall is a perfect time to enjoy the beautiful fall colors. During our Fall Festival you can pick a pumpkin from the patch, play in the corn box and take home your favorite fall decorations.",
+        "susDescription": [
+            "Hello, how are you doing",
+            "Whats your name?",
+            "Where are you from"
+        ],
+        "updatedAt": "2015-07-21T20:01:54.057Z",
+        "website": "http://www.davidson.edu/student-life/dining-services/dining-locations/davis-cafe"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true,
+                "write": true
+            }
+        },
+        "address": "Baker Dr, Davidson, NC 28036",
+        "createdAt": "2015-07-06T18:36:23.357Z",
+        "dynamic": [
+            "DuJour",
+            "Breakfast"
+        ],
+        "eco": [],
+        "fair": [],
+        "healthScore": 98.5,
+        "hours": [
+            "7:30am-10:00am / 11:00am-2:00pm / 5:00pm-7:45pm",
+            "7:30am-10:00am / 11:00am-2:00pm / 5:00pm-7:45pm",
+            "7:30am-10:00am / 11:00am-2:00pm / 5:00pm-7:45pm",
+            "7:30am-10:00am / 11:00am-2:00pm / 5:00pm-7:45pm",
+            "7:30am-10:00am / 11:00am-2:00pm / 5:00pm-7:00pm",
+            "9:30am-11:00am / 11:00am-2:00pm / 5:00pm-7:00pm",
+            "9:30am-11:00am / 11:00am-2:00pm / 5:00pm-7:00pm"
+        ],
+        "humane": [],
+        "image": {
+            "__type": "File",
+            "name": "tfss-8fc86767-3811-416b-8c19-4dbbf572dbbc-vail_commons_south.jpg",
+            "url": "http://files.parsetfss.com/d2efe009-f3de-4c1d-a172-b44358a0d179/tfss-8fc86767-3811-416b-8c19-4dbbf572dbbc-vail_commons_south.jpg"
+        },
+        "labelDescription": [
+            [
+                "FS",
+                "C",
+                "R",
+                "L",
+                "ES",
+                ""
+            ],
+            [
+                "FD",
+                "",
+                "AI",
+                "VO",
+                "CA"
+            ],
+            []
+        ],
+        "mealPlanHours": [
+            "7:30am-10:00am (breakfast)\n 11:00am-2:00pm (lunch)\n 5:00pm-7:45pm (dinner)",
+            "7:30am-10:00am (breakfast)\n 11:00am-2:00pm (lunch)\n 5:00pm-7:45pm (dinner)",
+            "7:30am-10:00am (breakfast)\n 11:00am-2:00pm (lunch)\n 5:00pm-7:45pm (dinner)",
+            "7:30am-10:00am (breakfast)\n 11:00am-2:00pm (lunch)\n 5:00pm-7:45pm (dinner)",
+            "7:30am-10:00am (breakfast)\n 11:00am-2:00pm (lunch)\n 5:00pm-7:45pm (dinner)",
+            "9:30am-11:00am (breakfast)\n 11:00am-2:00pm (lunch)\n 5:00pm-7:00pm (dinner)",
+            "9:30am-11:00am (breakfast)\n 11:00am-2:00pm (lunch)\n 5:00pm-7:00pm (dinner)"
+        ],
+        "name": "Vail Commons",
+        "number": "704-765-2190",
+        "objectId": "24FzzqDe0Z",
+        "restDescription": "A visit to the Lazy 5 during the fall is a perfect time to enjoy the beautiful fall colors. During our Fall Festival you can pick a pumpkin from the patch, play in the corn box and take home your favorite fall decorations.",
+        "susDescription": [
+            "Hello, how are you doing",
+            "Whats your name?",
+            "Where are you from"
+        ],
+        "updatedAt": "2015-07-22T13:55:13.548Z",
+        "website": "http://www.davidson.edu/student-life/dining-services/dining-locations/vail-commons"
+    }
+] }

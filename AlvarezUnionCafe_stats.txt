@@ -1,0 +1,43 @@
+Preference Data For Alvarez Union Cafe:
+A La Carte: 4
+Bagel Sandwich: 3
+Pesto Chicken Flatbread: 3
+Croissant Sandwich: 3
+Hamburger: 3
+Biscuit Sandwich: 2
+Jalapeno Cheddar Chicken: 2
+Hot Dog: 2
+Popeye Pizza: 2
+Quesadillas: 2
+Meat Lovers Pizza: 2
+Bacon, Lettuce, Tomato & Turkey: 2
+Smokehouse Black Bean Burger: 1
+Meatball Grinder: 1
+Soup & Extras: 1
+Breakfast Sandwich: 1
+Sides: 1
+Black Bean Burger on the Greens: 1
+Chipotle Steak: 1
+Southwestern Black Bean Burger: 1
+Chicken Bacon Melt: 1
+Omelets: 1
+Custom Roast Turkey Sandwich: 1
+Black Bean Burger: 1
+Tuna Salad Sandwich: 1
+Chicken Philly: 1
+Grilled Chicken on the Greens: 1
+Smokehouse Burger: 1
+Chicken Ranch Grinder: 1
+Roast Turkey Grinder: 1
+Philly Steak: 1
+Cheeseburger: 1
+Burger on the Greens: 1
+Chicken Club: 1
+Grilled Cheese: 1
+
+Dislike Data For Alvarez Union Cafe:
+Veggie Sandwich: 1
+Quesadillas: 1
+Caf Ranch Burger: 1
+Biscuit Sandwich: 1
+BLT: 1
