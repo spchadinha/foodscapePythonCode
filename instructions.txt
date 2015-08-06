@@ -1,0 +1,43 @@
+
+
+
+Set up for python code
+
+pull down the foodscapePythonCode repository onto your computer
+	- this step only needs to be done once
+
+go to parse and download the Restaurant page and the dishInfo page
+	- click on each object in parse, then in the upper right hand corner is the download button - which sends you an email with a link to the file
+move both of the downloaded files into the repository
+
+go to the webportal
+sign in as an admin
+go to view all users
+	- in the URL add '.json' to the end of the url
+	- copy all the info on the page into a text file named 'alpham.txt'
+	- save this file in the repository 
+go to the view meals page
+	- in the URL add '.json' to the end of the url
+	- copy all the info on the page into a text file named 'alpham.txt'
+	- save this file in the repository 
+
+in the terminal cd into the repository
+run 'python json_editor.py'
+	- this combines restaurant data into boots_with_the_furr.json
+run 'python meal_json_editor.py'
+	- this combines dishInfo data into apple_bottom_jeans.json
+
+
+
+
+Replacing info in parse
+
+replace restaurant data
+	- delete the reasturant class
+	- choose 'import' and select boots_with_the_furr.json and rename the class Restaurant
+
+replace dishInfo data
+	- delete the dishInfo class
+	- choose 'import' and select apple_bottom_jeans.json and rename the class dishInfo
+
+
